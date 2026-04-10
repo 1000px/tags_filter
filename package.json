@@ -1,0 +1,21 @@
+{
+  "name": "obsidian-tags-filter",
+  "version": "0.0.1",
+  "description": "obsidian tags filter plugin for current file",
+  "main": "main.js",
+  "scripts": {
+    "dev": "."
+  },
+  "keywords": [
+    "obsidian",
+    "plugin",
+    "search",
+    "tags",
+    "filter"
+  ],
+  "author": "1000px",
+  "license": "MIT",
+  "devDependencies": {
+    
+  }
+}
