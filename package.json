@@ -1,6 +1,6 @@
 {
   "name": "obsidian-tags-filter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "obsidian tags filter plugin for current file",
   "main": "main.js",
   "scripts": {
